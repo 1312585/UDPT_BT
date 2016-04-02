@@ -12,44 +12,61 @@
     </div>
 	
     <div id="head-link" align = "center">
-		<center><h3> HOME|1312489-1312585 </h3> </center>
+		<center><h3> <a href = "file:///C:/Users/Son/Desktop/UDPT_BT/GioiThieuNhom.html"> HOME|1312489-1312585 </a> </h3> </center>
     </div>
 	
     <div id="left"align = "left">
-		<h3> <li> 1312489 - Nguyễn Ngọc Son </li>
+		<h3> <li>  1312489 - Nguyễn Ngọc Son </li>
 				&#160
-			 <li>  1312585 - Lê Thị Anh Thư </li>
+			 <li>	1312585 - Lê Thị Anh Thư </li>
 				&#160
-			<li> Bàn cờ </li>
+			 <li> Bàn cờ </li>
 				<center> <img src = "images/co vua.gif" width = "150" height = "150"> </center>
 				&#160
 			 <li> Bảng cửu chương </li>
-			 <div id = "bangcuuchuong">
+			 <!-- Bảng cửu chương từ 2-5-->
 			 <script language="javascript">
 				function bangcuuchuong() 
-				{ document.write("<table border = 1>") 
+				{ document.write("<table align = center width = 100 height = 100 border = 1 bgcolor = #FFFFFF>") 
+				
 					for(i=1;i<=9;i++) 
 					{ 
-						document.write("<tr>") 
-						for(n=2;n<=9;n++) 
-						document.write("<td>" +n + "x" + i +"="+ (n*i)); 
+						document.write("<tr>");
+						for(n=2;n<=5;n++) 
+						document.write("<td width = 1 height = 1> <font size = 1>"+n + "x" + i +"="+ (n*i)); 
 						document.write("</td>"); 
-						document.write("</tr>") 
+						document.write("</tr>"); 
 					} 
-					document.write("</tr></table>") 
+					document.write("</tr></table>"); 
 				} 
 				bangcuuchuong();
 				</script>
-			</div>
+				<!--Bảng cửu chương từ 6-9-->
+				&#160
+				 <script language="javascript">
+				function bangcuuchuong() 
+				{ document.write("<table align = center width = 100 height = 100 border = 1 bgcolor = #FFFFFF>") 
+				
+					for(i=1;i<=9;i++) 
+					{ 
+						document.write("<tr>");
+						for(n=6;n<=9;n++) 
+						document.write("<td width = 1 height = 1> <font size = 1>"+n + "x" + i +"="+ (n*i)); 
+						document.write("</td>"); 
+						document.write("</tr>"); 
+					} 
+					document.write("</tr></table>"); 
+				} 
+				bangcuuchuong();
+				</script>
 		</h3>
     </div>
 	
     <div id="content">
 		<center> <h2> Nhóm_TS </h2> </center>
-		<p align = "center"> <img src="images/HinhNhom.png" alt="Hinh nhom" width= "750px" border = "2" height = "300px";>
-
+		<p align = "center"> <img src="images/HinhNhom.png" alt="Hinh nhom" width= "750px" border = "2" height = "300px";> 
 		</p> </center> 
-	
+
     </div>
 	
     <div id="footer">
