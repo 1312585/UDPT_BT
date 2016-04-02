@@ -1,32 +1,32 @@
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *Giới thiệu nhóm*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Giới thiệu nhóm ** là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: **Nguyễn Ngọc Son-1312489, Lê Thị Anh Thư-1312585**
 
-URL: **URL hosting của bài tập**
+URL: **https://github.com/1312585/UDPT_BT.git**
 
 ## Yêu cầu
 
 Yêu cầu **GIT**:
 
-* [ ] Có sử dụng GIT.
-* [ ] Sử dụng GIT trên 1 branch.
-* [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
-* [ ] Sử dụng GIT theo Gitflow Workflow.
+* [x] Có sử dụng GIT.
+* [x] Sử dụng GIT trên 1 branch.
+* [x] Sử dụng GIT theo Centralized Workflow.
+* [x] Sử dụng GIT theo Feature Branch Workflow.
+* [x] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
 
-* [ ] Thiết kế theo table.
-* [ ] Thiết kế với div.
+* [x] Thiết kế theo table.
+* [x] Thiết kế với div.
 * [ ] Thiết kế nâng cao
     * [ ] Navigation, header, footer, sidebar.
     * [ ] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ ] IE
-    * [ ] Firefox
-    * [ ] Chrome
+* [x] Thiết kế chạy trên nhiều trình duyệt
+    * [x] IE
+    * [x] Firefox
+    * [x] Chrome
     * [ ] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
@@ -37,14 +37,14 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+![https://github.com/1312585/UDPT_BT/blob/4ac437cefa42166f2ff31fb2339bd53375896c9c/demo.gif](demo.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Nguyễn Ngọc Son-Lê Thị Anh Thư]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
